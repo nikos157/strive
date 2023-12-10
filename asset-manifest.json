@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.6a7571e8.css",
-    "main.js": "/my-app/static/js/main.707c8e63.js",
-    "static/js/787.25471cf6.chunk.js": "/my-app/static/js/787.25471cf6.chunk.js",
-    "static/media/logo.jpg": "/my-app/static/media/logo.817ae738560547ef3c8a.jpg",
-    "index.html": "/my-app/index.html",
-    "main.6a7571e8.css.map": "/my-app/static/css/main.6a7571e8.css.map",
-    "main.707c8e63.js.map": "/my-app/static/js/main.707c8e63.js.map",
-    "787.25471cf6.chunk.js.map": "/my-app/static/js/787.25471cf6.chunk.js.map"
+    "main.css": "/strive/static/css/main.6a7571e8.css",
+    "main.js": "/strive/static/js/main.393c557d.js",
+    "static/js/787.25471cf6.chunk.js": "/strive/static/js/787.25471cf6.chunk.js",
+    "static/media/logo.jpg": "/strive/static/media/logo.817ae738560547ef3c8a.jpg",
+    "index.html": "/strive/index.html",
+    "main.6a7571e8.css.map": "/strive/static/css/main.6a7571e8.css.map",
+    "main.393c557d.js.map": "/strive/static/js/main.393c557d.js.map",
+    "787.25471cf6.chunk.js.map": "/strive/static/js/787.25471cf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a7571e8.css",
-    "static/js/main.707c8e63.js"
+    "static/js/main.393c557d.js"
   ]
 }
