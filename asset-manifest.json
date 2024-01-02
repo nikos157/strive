@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/strive/static/css/main.6a7571e8.css",
-    "main.js": "/strive/static/js/main.7b8bd94a.js",
+    "main.css": "/strive/static/css/main.69579b05.css",
+    "main.js": "/strive/static/js/main.ade5e934.js",
     "static/js/787.25471cf6.chunk.js": "/strive/static/js/787.25471cf6.chunk.js",
+    "static/media/Corteiz_logo.png": "/strive/static/media/Corteiz_logo.7cdfe33f086cc8267f26.png",
     "static/media/logo.jpg": "/strive/static/media/logo.817ae738560547ef3c8a.jpg",
+    "static/media/Logo_NIKE.svg.png": "/strive/static/media/Logo_NIKE.svg.31402439967e28a9773e.png",
     "index.html": "/strive/index.html",
-    "main.6a7571e8.css.map": "/strive/static/css/main.6a7571e8.css.map",
-    "main.7b8bd94a.js.map": "/strive/static/js/main.7b8bd94a.js.map",
+    "main.69579b05.css.map": "/strive/static/css/main.69579b05.css.map",
+    "main.ade5e934.js.map": "/strive/static/js/main.ade5e934.js.map",
     "787.25471cf6.chunk.js.map": "/strive/static/js/787.25471cf6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a7571e8.css",
-    "static/js/main.7b8bd94a.js"
+    "static/css/main.69579b05.css",
+    "static/js/main.ade5e934.js"
   ]
 }
