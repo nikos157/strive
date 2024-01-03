@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/strive/static/css/main.2d054d6d.css",
-    "main.js": "/strive/static/js/main.917a1911.js",
+    "main.js": "/strive/static/js/main.acc78dee.js",
     "static/js/787.25471cf6.chunk.js": "/strive/static/js/787.25471cf6.chunk.js",
     "static/media/Corteiz_logo.png": "/strive/static/media/Corteiz_logo.7cdfe33f086cc8267f26.png",
     "static/media/photo3.webp": "/strive/static/media/photo3.3d216847a9afd0d1da4b.webp",
@@ -11,11 +11,11 @@
     "static/media/Logo_NIKE.svg.png": "/strive/static/media/Logo_NIKE.svg.31402439967e28a9773e.png",
     "index.html": "/strive/index.html",
     "main.2d054d6d.css.map": "/strive/static/css/main.2d054d6d.css.map",
-    "main.917a1911.js.map": "/strive/static/js/main.917a1911.js.map",
+    "main.acc78dee.js.map": "/strive/static/js/main.acc78dee.js.map",
     "787.25471cf6.chunk.js.map": "/strive/static/js/787.25471cf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d054d6d.css",
-    "static/js/main.917a1911.js"
+    "static/js/main.acc78dee.js"
   ]
 }
