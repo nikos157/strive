@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/strive/static/css/main.2d054d6d.css",
-    "main.js": "/strive/static/js/main.a1eb4f96.js",
+    "main.css": "/strive/static/css/main.613207f0.css",
+    "main.js": "/strive/static/js/main.4a543612.js",
     "static/js/787.25471cf6.chunk.js": "/strive/static/js/787.25471cf6.chunk.js",
+    "static/media/video.mp4": "/strive/static/media/video.68073c4da36c53ae64d6.mp4",
     "static/media/Corteiz_logo.png": "/strive/static/media/Corteiz_logo.7cdfe33f086cc8267f26.png",
     "static/media/photo3.webp": "/strive/static/media/photo3.3d216847a9afd0d1da4b.webp",
     "static/media/photo1.webp": "/strive/static/media/photo1.7cd93d9336bb74bfbdf0.webp",
     "static/media/photo2.webp": "/strive/static/media/photo2.5e3fb70240b20305e672.webp",
-    "static/media/logo.jpg": "/strive/static/media/logo.817ae738560547ef3c8a.jpg",
+    "static/media/logo.PNG": "/strive/static/media/logo.509f225ea431981c3b67.PNG",
     "static/media/Logo_NIKE.svg.png": "/strive/static/media/Logo_NIKE.svg.31402439967e28a9773e.png",
     "index.html": "/strive/index.html",
-    "main.2d054d6d.css.map": "/strive/static/css/main.2d054d6d.css.map",
-    "main.a1eb4f96.js.map": "/strive/static/js/main.a1eb4f96.js.map",
+    "main.613207f0.css.map": "/strive/static/css/main.613207f0.css.map",
+    "main.4a543612.js.map": "/strive/static/js/main.4a543612.js.map",
     "787.25471cf6.chunk.js.map": "/strive/static/js/787.25471cf6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d054d6d.css",
-    "static/js/main.a1eb4f96.js"
+    "static/css/main.613207f0.css",
+    "static/js/main.4a543612.js"
   ]
 }
